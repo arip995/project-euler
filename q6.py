@@ -1,4 +1,4 @@
-sguare=0
+square=0
 sum=0
 result=0
 n=101
