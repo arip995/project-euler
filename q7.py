@@ -1,7 +1,7 @@
 th=1
 i=3
 while True:
-    if i!=0:
+    if i/2!=0:
         c=1
         k=int(i/2+1)
         for j in range(1,k):
