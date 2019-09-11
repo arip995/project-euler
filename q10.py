@@ -5,8 +5,8 @@ def isPrime(n):
     return True
 
 sum = 0
-for i in range(2, 2000000):
+for i in range(3, 2000000,2):
     if isPrime(i):
         sum += i
 
-print (sum)
+print (sum+2)
