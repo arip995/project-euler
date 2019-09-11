@@ -8,9 +8,9 @@ def prime(n):
     prime = 1
 
     while x < n:
-        prime += 1
+        prime += 2
         if isPrime(prime):
             x += 1
     return prime
 
-print(prime(10001))
+print(prime(10000))
